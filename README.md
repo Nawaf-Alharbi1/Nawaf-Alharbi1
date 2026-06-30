@@ -29,7 +29,6 @@
 - GitHub
 - VS Code
 - Linux
-- Raspberry Pi
 
 ---
 
