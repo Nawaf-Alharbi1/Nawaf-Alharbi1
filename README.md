@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nawaf 👋
 
-<!--
-**Nawaf-Alharbi1/Nawaf-Alharbi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Information Technology student.
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Software Development
+- Artificial Intelligence
+- Cybersecurity
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Advanced Python
+- Git & GitHub
+- AI Applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C++
+- JavaScript
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+- Raspberry Pi
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/nawaf-f-alharbi
+- Email: nawaf.alharbi.f@gmail.com
